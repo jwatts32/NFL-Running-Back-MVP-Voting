@@ -1,1 +1,2 @@
 # NFL-Running-Back-MVP-Voting
+This project looks at NFL MVP voting for running backs over the last 10 seasons.  Since Adrian Peterson won the award in 2012, QBs have received the honor for a decade straight.  Christian McCaffrey is suddenly making a push for MVP in 2023.  Having previously compared his stats to 2012 Adrian Peterson, I took it a step further to compare McCaffrey to running backs who have finished in the top 5 of MVP voting over the last 10 seasons.
